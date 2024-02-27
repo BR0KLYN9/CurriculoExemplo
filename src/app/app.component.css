@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    color: darkolivegreen;
+    font-size: 50px;
+    font-style: italic;
+}
+
+h5{
+    text-align: center;
+    font-size: 20px;
+}
+
+h3{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-size: 23px;
+    font-style: oblique;
+}
+.Experiencia p{
+    text-align: center;
+    font-size: 20px;
+    font-style: oblique;
+}
+img{
+    width: 50px;
+    margin: auto;
+    display: block;
+}
